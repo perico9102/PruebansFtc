@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PeluqueriaCanina</string>
+    <string name="bienvenida">Bienvenido otra vez!</string>
+    <string name="bienvenida2">Te hemos extrañado! Inicia sesion para empezar</string>
+    <string name="login">LOGIN</string>
+    <string name="et_correo">Introduce tu correo</string>
+    <string name="et_contrasenia">Introduce tu contraseña</string>
+    <string name="tv_tam_citas">No hay ninguna cita</string>
+</resources>

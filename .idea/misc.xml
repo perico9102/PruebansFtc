@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Fernando/Desktop/PeluqueriaCanina/app/src/main/res/drawable-anydpi/icono_usuario.xml" value="0.2785" />
+        <entry key="..\:/Users/Fernando/Desktop/PeluqueriaCanina/app/src/main/res/drawable-xxhdpi/forma_header.xml" value="0.2785" />
+        <entry key="..\:/Users/Fernando/Desktop/PeluqueriaCanina/app/src/main/res/drawable/fondo_cartas.xml" value="0.2505" />
+        <entry key="..\:/Users/Fernando/Desktop/PeluqueriaCanina/app/src/main/res/drawable/forma_header.xml" value="0.2785" />
+        <entry key="..\:/Users/Fernando/Desktop/PeluqueriaCanina/app/src/main/res/drawable/forma_linear_layout.xml" value="0.2785" />
+        <entry key="..\:/Users/Fernando/Desktop/PeluqueriaCanina/app/src/main/res/drawable/forma_linear_layout_rv.xml" value="0.2785" />
+        <entry key="..\:/Users/Fernando/Desktop/PeluqueriaCanina/app/src/main/res/drawable/foto_perfil_usuario_forma.xml" value="0.2785" />
+        <entry key="..\:/Users/Fernando/Desktop/PeluqueriaCanina/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/Fernando/Desktop/PeluqueriaCanina/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Fernando/Desktop/PeluqueriaCanina/app/src/main/res/layout/activity_peluqueria.xml" value="0.3541666666666667" />
+        <entry key="..\:/Users/Fernando/Desktop/PeluqueriaCanina/app/src/main/res/layout/activity_veterinaria.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Fernando/Desktop/PeluqueriaCanina/app/src/main/res/layout/citas_recicler_view_vet.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
